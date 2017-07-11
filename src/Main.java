@@ -6,6 +6,8 @@ public class Main {
         System.out.println("Hello");
         System.out.println("안녕 못해 ");
         System.out.println("안녕못해 ");
+        System.out.println("안녕");
+        System.out.println("안녕");
 
     }
 }
